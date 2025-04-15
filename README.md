@@ -74,8 +74,9 @@ python bot.py
 - `README.md` – Setup instructions
 - `.gitignore` – Prevents uploading user data & cache
 
-## 👥 Author
+## 👥 Authors
 Kim Diana 
+Toktarova Diana 
 
 
 
