@@ -28,16 +28,16 @@ This is a Telegram bot built in Python that helps users manage their finances by
 ## 📷 Screenshots
 
 ### 1. Start and help
-![StartHelp](screenshots/starthelp.jpg)
+![StartHelp](screenshots/starthelp.jpeg)
 
 ### 2. Configuring Income
-![Income](screenshots/config.jpg)
+![Income](screenshots/config.jpeg)
 
 ### 3. Logging and Summary
-![Logsum](screenshots/logsum.jpg)
+![Logsum](screenshots/logsum.jpeg)
 
 ### 4. Notifications off/on
-![Nitif](screenshots/notif.jpg)
+![Nitif](screenshots/notif.jpeg)
 
 
 ## 🛠️ Setup Instructions
