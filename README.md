@@ -1,3 +1,5 @@
+
+
 # 💸 Telegram Financial Planner Bot
 
 This is a Telegram bot built in Python that helps users manage their finances by tracking income, expenses, and budgets. The bot allows users to configure their income, set budgets for different categories, log transactions, and view their financial summary. Additionally, it supports notifications for budget alerts and daily/weekly summaries.
@@ -74,4 +76,7 @@ python bot.py
 
 ## 👥 Author
 Kim Diana 
+
+
+
 
