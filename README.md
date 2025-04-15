@@ -1,13 +1,14 @@
 # 💸 Telegram Financial Planner Bot
 
-A personal finance planner Telegram bot built with Python & Telegram Bot API.
+This is a Telegram bot built in Python that helps users manage their finances by tracking income, expenses, and budgets. The bot allows users to configure their income, set budgets for different categories, log transactions, and view their financial summary. Additionally, it supports notifications for budget alerts and daily/weekly summaries.
+
 
 ## 🚀 Features
 
-- Set income and budgets per category
-- Log income & expenses with category
-- View balance, budget usage, and remaining funds
-- Notifications for summaries and budget alerts
+-Configure Income & Budgets: Users can set their monthly income and configure budgets for different expense categories.
+-Log Expenses & Income: Log transactions as either income or expenses, with the ability to categorize them.
+-View Balance & Budget Summaries: Get an overview of your total income, expenses, and remaining balance. Check your progress with category-specific budgets.
+-Push Notifications: Enable or disable notifications for daily/weekly summaries and budget alerts to stay on top of your finances.
 - Basic commands:
   - `/start` – Greet the user
   - `/help` – List all commands
@@ -24,7 +25,18 @@ A personal finance planner Telegram bot built with Python & Telegram Bot API.
 
 ## 📷 Screenshots
 
-_(Добавь свои скриншоты сюда после тестов!)_
+### 1. Start and help
+![StartHelp](screenshots/starthelp.jpg)
+
+### 2. Configuring Income
+![Income](screenshots/config.jpg)
+
+### 3. Logging and Summary
+![Logsum](screenshots/logsum.jpg)
+
+### 4. Notifications off/on
+![Nitif](screenshots/notif.jpg)
+
 
 ## 🛠️ Setup Instructions
 
@@ -60,14 +72,6 @@ python bot.py
 - `README.md` – Setup instructions
 - `.gitignore` – Prevents uploading user data & cache
 
-## 👥 Authors
+## 👥 Author
+Kim Diana 
 
-Group of 2 students – _Add your names here!_
-
-## 📦 How to Submit
-
-1. Push to GitHub/GitLab
-2. Include:
-   - ✅ Clean and commented code
-   - ✅ README with setup and features
-   - ✅ Screenshots of the bot in use
